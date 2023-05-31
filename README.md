@@ -2,6 +2,7 @@ DISCORD BOT
 
 Requirements: 
 
+
 Java Development Kit (JDK): Make sure you have Java 8 or a higher version installed on your system.
 
 Gradle: Ensure that Gradle is installed on your machine. You can download it from the official Gradle website (https://gradle.org/install/).
@@ -17,7 +18,9 @@ Make sure to sync your Gradle project after adding the dependency.
 
 Discord Bot Token: Obtain a Discord bot token by creating a bot application on the Discord Developer Portal (https://discord.com/developers/applications). This token is required to authenticate your bot with the Discord API.
 
+
 Installation:
+
 
 Clone the repository using the following command:e
 

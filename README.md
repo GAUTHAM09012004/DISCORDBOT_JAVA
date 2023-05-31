@@ -1,4 +1,27 @@
 DISCORD BOT
+    
+Features:
+    
+Sends a welcome message to users when the "welcome" slash command is invoked.
+
+Retrieves and displays all roles in the server when the "roles" slash command is triggered.
+
+Allows users to send custom messages through the bot using the "say" slash command, with the option to specify the target channel.
+
+Responds with predefined messages based on the emote specified in the "emote" slash command.
+
+Enables role assignment to users using the "giverole" slash command.
+
+Sends a message whenever a user reacts to a message with an emoji.
+    
+Sends a "Bot is ready!" message when the bot is fully connected and ready to operate.
+
+Echoes any non-empty, non-bot messages received in the designated channel.
+
+Provides information about users' online status updates, indicating the number of members online in the server.
+
+Manages slash commands for guilds, allowing for easy creation and updating of command functionalities.   
+
 
 Requirements: 
 
@@ -57,27 +80,6 @@ JDA (Java Discord API),
 Gradle,
 IntelliJ IDEA,
 Discord Developer Portal
-    
-Features:
-    
-Sends a welcome message to users when the "welcome" slash command is invoked.
-
-Retrieves and displays all roles in the server when the "roles" slash command is triggered.
-
-Allows users to send custom messages through the bot using the "say" slash command, with the option to specify the target channel.
-
-Responds with predefined messages based on the emote specified in the "emote" slash command.
-
-Enables role assignment to users using the "giverole" slash command.
-
-Sends a message whenever a user reacts to a message with an emoji.
-    
-Sends a "Bot is ready!" message when the bot is fully connected and ready to operate.
-
-Echoes any non-empty, non-bot messages received in the designated channel.
-
-Provides information about users' online status updates, indicating the number of members online in the server.
-
-Manages slash commands for guilds, allowing for easy creation and updating of command functionalities.    
+ 
     
     

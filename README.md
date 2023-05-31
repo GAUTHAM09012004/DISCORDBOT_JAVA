@@ -74,7 +74,6 @@ $ ./gradlew run
 Alternatively, you can run the bot using your IDE's run configuration.
     
 Usage:
-    
 Java,
 JDA (Java Discord API),
 Gradle,

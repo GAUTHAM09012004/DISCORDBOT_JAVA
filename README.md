@@ -39,9 +39,10 @@ Locate the configuration file (config.properties) in the project directory.
 
 Replace the placeholder <your-bot-token> in the configuration file with your actual bot token.
 
- Build and Run the Bot
 Build the project using Gradle:
 $ ./gradlew build
+
 Run the bot:
 $ ./gradlew run
+
 Alternatively, you can run the bot using your IDE's run configuration.

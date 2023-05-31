@@ -85,6 +85,9 @@ Contributions to the Discord bot project are welcome. If you would like to contr
 
 License: 
 The Discord bot is open-source and is licensed under the MIT License. The MIT License allows you to freely modify, distribute, and use the bot's code for personal or commercial purposes. It provides you with the freedom to adapt the code to your needs while providing some basic protections and disclaimers.
+    
+    
+![Screenshot from 2023-05-31 14-53-11](https://github.com/GAUTHAM09012004/DISCORDBOT_JAVA/assets/121389039/8629eff6-8e81-4ac1-95d9-5c100d256501)
  
     
     

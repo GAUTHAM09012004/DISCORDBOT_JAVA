@@ -81,10 +81,10 @@ IntelliJ IDEA,
 Discord Developer Portal
     
 Contributions: 
-Contributions to the Discord bot project are welcome. If you would like to contribute, you can do so by opening an issue or submitting a pull request on the GitHub repository. You can report bugs, suggest new features, or provide improvements to the existing code. Your contributions can help enhance the functionality and overall quality of the bot. Make sure to follow any guidelines or instructions mentioned in the repository's CONTRIBUTIONS.md file, if available, to ensure a smooth contribution process.
+Contributions to the Discord bot project are welcome. If you would like to contribute, you can do so by opening an issue or submitting a pull request on the GitHub repository. You can report bugs, suggest new features, or provide improvements to the existing code. Your contributions can help enhance the functionality and overall quality of the bot. 
 
 License: 
-The Discord bot is open-source and is licensed under the MIT License. The MIT License allows you to freely modify, distribute, and use the bot's code for personal or commercial purposes. It provides you with the freedom to adapt the code to your needs while providing some basic protections and disclaimers. It's important to review the LICENSE.md file in the repository for the specific terms and conditions of the MIT License that apply to the bot.
+The Discord bot is open-source and is licensed under the MIT License. The MIT License allows you to freely modify, distribute, and use the bot's code for personal or commercial purposes. It provides you with the freedom to adapt the code to your needs while providing some basic protections and disclaimers.
  
     
     

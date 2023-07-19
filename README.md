@@ -1,8 +1,7 @@
 DISCORD BOT
     
-Features:
     
- Sends a welcome message to users when the "welcome" slash command is invoked.
+ Sends a stupid message to users when the "welcome" slash command is invoked.
 
  Retrieves and displays all roles in the server when the "roles" slash command is triggered.
  
